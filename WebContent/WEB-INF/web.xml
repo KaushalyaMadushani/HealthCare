@@ -12,7 +12,7 @@
   <servlet-mapping>
 		<servlet-name>Jersey Web Application</servlet-name>
 		<url-pattern>/myService/*</url-pattern>
-  </servlet-mapping>
+	</servlet-mapping>
   
   
   <welcome-file-list>
